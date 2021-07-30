@@ -5,7 +5,7 @@ This repository contains code related to a CNN that can classify various dog bre
 The code contained in this repository was written in Python and largely used the OpenCV and Keras libraries. Specifically the following Python packages were used: sklearn, keras, numpy, glob, random, cv2, matplotlib, tqdm, PIL and IPython.
 
 # Running instructions
-Run the dog_app.ipynb file to train and test the CNN. For certain modules, you need to use the lbpcascade_frontalface_improved.xml model framework from OpenCV which I have uploaded in the repository. You also need to download the VGG-19 model bottleneck features which can be found here : lbpcascade_frontalface_improved.xml
+Run the dog_app.ipynb file to train and test the CNN. For certain modules, you need to use the lbpcascade_frontalface_improved.xml model framework from OpenCV which I have uploaded in the repository. You also need to download the VGG-19 model bottleneck features which can be found here : https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG19Data.npz
 
 # Results summary
 ![Screen Shot 2021-07-29 at 11 01 53 PM](https://user-images.githubusercontent.com/10462415/127607976-a7fa8399-09a8-4c56-bc39-8033179d22bf.png)
